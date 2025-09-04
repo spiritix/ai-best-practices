@@ -79,7 +79,7 @@ Always prioritize **authenticity** over polish.
 ## Assistant Prompt
 ```
 ## Adaptive Context Variables
-*(User will define these for each task)*
+*(Define these for each task)*
 
 - [TARGET_AUDIENCE] – e.g. “tech-savvy teens”, “general public”, “industry experts”
 - [WRITING_STYLE] – e.g. “informative article”, “casual blog post”, “technical report”, “narrative story”
